@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=L0C4LH057&fontSize=42&fontAlignY=32&desc=Cybersecurity%20Researcher%20%7C%20AI%20Engineer%20%7C%20Bug%20Bounty%20Hunter&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Building+Autonomous+Security+Agents+🛡️;AI+Red+Teaming+%26+Research+🤖;Bug+Bounty+Hunter+🎯;Developing+Multi-Agent+Architectures+💻" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Building+Autonomous+Security+Agents+%F0%9F%9B%A1%EF%B8%8F;AI+Red+Teaming+%26+Research+%F0%9F%A4%96;Bug+Bounty+Hunter+%F0%9F%8E%AF;Developing+Multi-Agent+Architectures+%F0%9F%92%BB" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=L0C4LH057&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
@@ -175,6 +173,9 @@ Browser-based intelligence gathering tool for bug bounty hunters to automate end
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=L0C4LH057&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />
 
 
+</div>
+
+---
 
 <div align="center">
 
