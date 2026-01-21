@@ -1,149 +1,297 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/00000000" width="120" style="border-radius:50%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=L0C4LH057&fontSize=42&fontAlignY=32&desc=Cybersecurity%20Researcher%20%7C%20AI%20Engineer%20%7C%20Bug%20Bounty%20Hunter&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 
-# Bashir Kabir — **L0C4LH057**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Building+Autonomous+Security+Agents+🛡️;AI+Red+Teaming+%26+Research+🤖;Bug+Bounty+Hunter+🎯;Developing+Multi-Agent+Architectures+💻" alt="Typing SVG" />
+</a>
 
-### 🛡️ Ethical Hacker • 🤖 AI Engineer • 🎯 Bug Bounty Hunter • 🔬 Cybersecurity Researcher
+<img src="https://komarev.com/ghpvc/?username=L0C4LH057&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
-> **Building secure systems at the intersection of AI, automation, and offensive security**
+</div>
 
-<br/>
+---
+
+<div align="center">
+  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+</div>
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```yaml
+name: Bashir Kabir
+handle: L0C4LH057
+location: Lagos, Nigeria
+education: BSc. Cybersecurity
+experience:
+  offensive_security: 4+ years
+  ai_ml_engineering: 5+ years
+specializations:
+  - Agentic AI & Multi-Agent Systems
+  - Network Intrusion Detection (CNN/DL)
+  - Web Application Pentesting
+  - Security Automation & Tooling
+current_focus:
+  - CyberNexus: Autonomous Cybersecurity Platform
+  - AI for Accessibility (Nigerian Languages)
+  - SMC/ICT Agentic Trading Frameworks
+```
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## 💻 Tech Arsenal
+
+### 🔐 Cybersecurity & Research
+
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Aircrack--ng-777777?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
+
+### 🤖 AI & Agentic Systems
+
+<p>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemma-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 🚀 Development Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ CyberNexus
+Autonomous AI-powered cybersecurity platform using multi-agent architectures for threat detection and response.
+
+**Tech Stack:**
+- Python
+- LLM Agents
+- Security Automation
+
+🔥 *Building the future of AI-powered security!*
+
+</td>
+<td width="50%" valign="top">
+
+### 🇳🇬 Interstellar
+High-performance verification service for NIN and BVN with integrated wallet and virtual account systems.
+
+**Tech Stack:**
+- Laravel
+- PHP
+- UI/UX Design
+
+💎 *Secure FinTech solutions for Nigeria*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 IDS-CNN
+Deep Learning model for Network Intrusion Detection using CNNs and the CIC-IDS2017 dataset.
+
+**Tech Stack:**
+- TensorFlow
+- Keras
+- Data Science
+
+📊 *AI-powered network security*
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Extract](https://github.com/L0C4LH057/Extract)
+Browser-based intelligence gathering tool for bug bounty hunters to automate endpoint discovery.
+
+**Tech Stack:**
+- JavaScript
+- Chrome APIs
+- Web Security
+
+⭐ *OSINT automation tool*
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=L0C4LH057&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=L0C4LH057&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0C4LH057&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=L0C4LH057&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />
+
+
+
+<div align="center">
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" /><br />
+<b>AI Red Teaming</b><br />
+Testing LLM jailbreaks & prompt injection
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100" /><br />
+<b>Agentic AI</b><br />
+Building goal-oriented agent fleets
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" width="100" /><br />
+<b>FinTech Security</b><br />
+Secure payment & verification systems
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100" /><br />
+<b>Accessibility</b><br />
+AI solutions for PWDs in Nigeria
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Collaborate
+
+I'm actively looking to collaborate on:
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/security-shield-green.png" width="40"/><br/>
+<b>AI Red Teaming</b><br/>
+Testing LLM jailbreaks & prompt injection
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/bot.png" width="40"/><br/>
+<b>Agentic AI</b><br/>
+Building goal-oriented agent fleets
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/automation.png" width="40"/><br/>
+<b>FinTech</b><br/>
+Secure payment & verification systems
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/book.png" width="40"/><br/>
+<b>Accessibility</b><br/>
+AI solutions for PWDs in Nigeria
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📬 Connect With Me
 
 <a href="mailto:breezylte@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bashir@localhost.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://twitter.com/bashirkabirz">
-  <img src="https://img.shields.io/badge/Twitter-@L0C4LH057-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/bashir">
-  <img src="https://img.shields.io/badge/LinkedIn-Bashir_Kabir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://hackerone.com/L0C4LH057">
-  <img src="https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
 </a>
 <a href="https://bugcrowd.com/L0C4LH057">
-  <img src="https://img.shields.io/badge/Bugcrowd-Profile-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-I’m a **Cybersecurity Researcher and Bug Bounty Hunter** with **4+ years of hands-on offensive security experience**, specializing in:
-
-- Web Application Security  
-- Linux & Network Exploitation  
-- Vulnerability Research & Disclosure  
-- Security Automation  
-
-I also have **5+ years of experience in AI & Machine Learning**, building **intelligent systems, AI agents, and automation pipelines** for real-world use cases — especially in **security and infrastructure**.
-
----
-
-## 🎯 What I Focus On
-
-- 🔐 Offensive Security & Bug Bounty Research  
-- 🤖 AI-assisted Security & Automation  
-- 🧠 Secure Software Architecture  
-- 🧪 Open-source Security Tooling  
-- 📚 Knowledge Sharing & Mentorship  
-
----
-
-## 🎓 Background
-
-- 🎓 **BSc. Cybersecurity** — Northwest University, Kano  
-- 🧑‍🏫 **Cybersecurity Bootcamp Instructor**  
-- 🤖 **Self-taught AI/ML Engineer** (production experience)
-
----
-
-## 🛠️ Tech Stack
-
-### 🔐 Cybersecurity & Engineering
-<img src="https://skillicons.dev/icons?i=linux,bash,python,php,go,js,ts,docker,git" />
-
-### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-
-### 🌐 Web & Infrastructure
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,flask,django,mysql,postgres,mongodb,redis,aws" />
-
----
-
-## 🧰 Tools I Use
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-0040FF?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=openai&logoColor=white"/>
+### 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
-
-### 🔐 Security
-- 🔹 **[Extract](https://github.com/L0C4LH057/Extract)**  
-  Chrome extension built for bug bounty hunters and penetration testers
-
-### 🤖 AI & ML
-- 🔹 **[recommendation_system](https://github.com/L0C4LH057/recommendation_system)**  
-  Intelligent recommendation engine  
-- 🔹 **[h4l](https://github.com/codejunkie-026/h4l)**  
-  Medical AI feedback platform  
-
-### 🌐 Frameworks
-- 🔹 **[Substrate](https://github.com/L0C4LH057/Substrate)** — Human-centric intelligence framework  
-- 🔹 **[Daemon](https://github.com/L0C4LH057/Daemon)** — Personal API & automation framework  
-- 🔹 **[ComBridge](https://github.com/L0C4LH057/ComBridge)** — Distributed communication bridge  
-
----
-
-## 📊 GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=L0C4LH057&show_icons=true&theme=dark&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0C4LH057&layout=compact&theme=dark&hide_border=true" height="160"/>
+### ⚡ *"Security is not a product, it's a process."* ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
 
-[![L0C4LH057's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=L0C4LH057&theme=react-dark)](https://github.com/L0CALH057/github-readme-activity-graph)
-
----
-
-## 🤝 Collaboration
-
-I’m open to collaborating on:
-
-- 🛡️ Open-source security tools  
-- 🤖 AI for cybersecurity  
-- 🎯 Bug bounty automation  
-- 📚 Educational content & write-ups  
-
----
-
-## 📫 Contact
-
-- 📧 **Email:** breezylte@gmail.com 
-- 🐦 **Twitter:** @bashirkabirz 
-- 💼 **LinkedIn:** Bashir Kabir  
-- 🛡️ **HackerOne / Bugcrowd:** L0C4LH057  
-
 ---
 
 <div align="center">
+  
+**✨ Made with 💚 by L0C4LH057 ✨**
 
-### ⚡ *“Security is not a product — it’s a process.”*
-
-<img src="https://komarev.com/ghpvc/?username=L0C4LH057&style=flat-square" />
+*Interested in my work? Let's build something secure together!*
 
 </div>
