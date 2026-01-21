@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/00000000" width="120" style="border-radius:50%" />
 
-# Bashir Kabir — **Localhost**
+# Bashir Kabir — **L0C4LH057**
 
 ### 🛡️ Ethical Hacker • 🤖 AI Engineer • 🎯 Bug Bounty Hunter • 🔬 Cybersecurity Researcher
 
@@ -10,10 +10,10 @@
 
 <br/>
 
-<a href="mailto:bashir@localhost.dev">
+<a href="mailto:breezylte@gmail.com">
   <img src="https://img.shields.io/badge/Email-bashir@localhost.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://twitter.com/L0C4LH057">
+<a href="https://twitter.com/bashirkabirz">
   <img src="https://img.shields.io/badge/Twitter-@L0C4LH057-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/bashir">
@@ -133,8 +133,8 @@ I’m open to collaborating on:
 
 ## 📫 Contact
 
-- 📧 **Email:** bashir@localhost.dev  
-- 🐦 **Twitter:** @L0C4LH057  
+- 📧 **Email:** breezylte@gmail.com 
+- 🐦 **Twitter:** @bashirkabirz 
 - 💼 **LinkedIn:** Bashir Kabir  
 - 🛡️ **HackerOne / Bugcrowd:** L0C4LH057  
 
