@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a192f,100:0d0d0d&height=200&section=header&text=Bashir%20Kabir&fontSize=52&fontColor=58a6ff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Builder&descAlignY=60&descAlign=50&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a192f,100:0d0d0d&height=200&section=header&text=&fontSize=52&fontColor=58a6ff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Builder&descAlignY=60&descAlign=50&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
 
 <br/>
 
@@ -23,7 +23,6 @@
 <img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
-name       : Bashir Kabir
 handle     : L0C4LH057
 location   : Lagos, Nigeria 🇳🇬
 education  : BSc. Cybersecurity
